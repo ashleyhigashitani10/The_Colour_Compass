@@ -8,6 +8,7 @@ I created this project to help me determine what colour palette of clothes/outfi
 ## Citations
 ChatGPT 5.2 was used as the AI coding assistant: https://chatgpt.com/
 All photos used were taken from the Unsplash API: https://api.unsplash.com/search/photos
+For Photographer info, please refer to the metadata_backup.csv in data/ 
 
 ## In scripts/
 the_colour_compass.ipynb
