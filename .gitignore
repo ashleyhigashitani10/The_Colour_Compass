@@ -207,4 +207,9 @@ marimo/_lsp/
 __marimo__/
 
 ## ignore .env
+.ipynb_checkpoints/
+__pycache__/
 .env
+.env.txt
+*.key
+*.pem
