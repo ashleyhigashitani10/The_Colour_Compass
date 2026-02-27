@@ -36,3 +36,28 @@ This project was done with support of an AI coding tool (ChatGPT 5.2, plus). AI 
 The overall project concept, aesthetic modeling framework, feature engineering decisions (brightness and warmth), clustering, and recommendation logic were developed and refined through independent experimentation and analysis.
 Evaluation and interpretation of outputs were completed independently.
 
+## Key Insights
+Travel destinations have distinct colour palettes!
+By extracting dominant colours, I observed that each destination has a consistent visual signature
+
+Greece has a lighter, softer colour palette
+Japan has a darker palette (black, browns, deep greens)
+Thailand presents a mix of darker and lighter tones
+Italy shares a slightly more diverse range of colours in the palette
+Colour similarity is quantifiable!
+
+I was able to explore distances in colour similarities
+Japan & Greece were the most visually distinct
+Brightness & warmth can capture the mood aesthetic
+
+Brightness (perceived luminance)
+Warmth (Red − Blue)
+Created an aesthetic profile
+Data Can Translate Visual Aesthetics Into Actionable Insight
+
+Feature engineering
+Clustering
+Turned unstructured data into data for analysis
+Converts data images into meaningful and data-driven recommendations
+
+This script allows me (or anyone else) wanting to coordinate outfits with data-driven recommendations!
