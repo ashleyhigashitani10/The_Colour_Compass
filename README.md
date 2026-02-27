@@ -15,14 +15,14 @@ the_colour_compass.ipynb
 
 This script includes:
 
-Collecting travel photography metadata via Unsplash API
-4 Countries were explored; Greece, Japan, Thailand & Italy
-Freeze the dataset (for reproductivity)
-Download then normalize images
-Extract dominant colours to create a palette (KMeans)
-Explore features (brightness & warmth)
-Compare destination palettes
-Create a "guidebook" of what colours to pack on vacation!
+- Collecting travel photography metadata via Unsplash API
+- 4 Countries were explored; Greece, Japan, Thailand & Italy
+- Freeze the dataset (for reproductivity)
+- Download then normalize images
+- Extract dominant colours to create a palette (KMeans)
+- Explore features (brightness & warmth)
+- Compare destination palettes
+- Create a "guidebook" of what colours to pack on vacation!
 
 ## In data/
 metadata_backup.csv
@@ -38,26 +38,28 @@ Evaluation and interpretation of outputs were completed independently.
 
 ## Key Insights
 Travel destinations have distinct colour palettes!
+
 By extracting dominant colours, I observed that each destination has a consistent visual signature
 
-Greece has a lighter, softer colour palette
-Japan has a darker palette (black, browns, deep greens)
-Thailand presents a mix of darker and lighter tones
-Italy shares a slightly more diverse range of colours in the palette
+- Greece has a lighter, softer colour palette
+- Japan has a darker palette (black, browns, deep greens)
+- Thailand presents a mix of darker and lighter tones
+- Italy shares a slightly more diverse range of colours in the palette
+  
 Colour similarity is quantifiable!
 
-I was able to explore distances in colour similarities
-Japan & Greece were the most visually distinct
-Brightness & warmth can capture the mood aesthetic
-
-Brightness (perceived luminance)
-Warmth (Red − Blue)
-Created an aesthetic profile
+- I was able to explore distances in colour similarities
+- Japan & Greece were the most visually distinct
+- Brightness & warmth can capture the mood aesthetic
+- Brightness (perceived luminance)
+- Warmth (Red − Blue)
+- Created an aesthetic profile
+  
 Data Can Translate Visual Aesthetics Into Actionable Insight
 
-Feature engineering
-Clustering
-Turned unstructured data into data for analysis
-Converts data images into meaningful and data-driven recommendations
+- Feature engineering
+- Clustering
+- Turned unstructured data into data for analysis
+- Converts data images into meaningful and data-driven recommendations
 
 This script allows me (or anyone else) wanting to coordinate outfits with data-driven recommendations!
