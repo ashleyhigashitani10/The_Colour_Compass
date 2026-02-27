@@ -6,9 +6,9 @@ This script pulls travel photos from popular destinations from the Unsplash API 
 I created this project to help me determine what colour palette of clothes/outfits I should bring to future vacation destinations. I wanted to combine some things that I enjoy (fashion and travel!) to code.
 
 ## Citations
-ChatGPT 5.2 was used as the AI coding assistant: https://chatgpt.com/
-All photos used were taken from the Unsplash API: https://api.unsplash.com/search/photos
-For Photographer info, please refer to the metadata_backup.csv in data/ 
+- ChatGPT 5.2 was used as the AI coding assistant: https://chatgpt.com/
+- All photos used were taken from the Unsplash API: https://api.unsplash.com/search/photos
+- For Photographer info, please refer to the metadata_backup.csv in data/ 
 
 ## In scripts/
 the_colour_compass.ipynb
